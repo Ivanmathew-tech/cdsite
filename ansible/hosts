@@ -1,5 +1,5 @@
 [dev]
-172.31.18.24 ansible_user="ec2-user"
+18.224.7.115 ansible_user="ec2-user"
 
 [build]
-172.31.20.155 ansible_user="ec2-user"
+18.191.92.195 ansible_user="ec2-user"
